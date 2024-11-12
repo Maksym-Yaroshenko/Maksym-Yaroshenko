@@ -2,7 +2,7 @@
 # 😎 Hey, nice to see you here!
 👋 I'm Maksym, Fullstack developer from Ukraine. <br/>
 📖 I completed the Fullstack development course from GoIT <br/>
-📚 At this moment studying Css-grid <br/>
+📚 At this moment studying Css-grid, SASS, Next.js і React Native <br/>
 👨🏻‍💻 Currently working on a web application for selling campers
 
 ## 🌐 My Socials:
