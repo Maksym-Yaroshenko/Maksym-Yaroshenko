@@ -1,14 +1,18 @@
 ---
-# 😎 Hey, nice to see you here! 
-👋 I'm Maksym, Fullstack developer from Ukraine. <br/>
-📖 I completed the Fullstack development course from GoIT <br/>
-📚 At this moment studying Css-grid, SASS, Next.js і React Native <br/>
-👨🏻‍💻 Currently working on a web application for selling campers
+# 😎 Hey, nice to see you here! 👋 
 
-## 🌐 My Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maksym-Yaroshenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-yaroshenko/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Maksym_Yaroshenko_2/)
+I'm Maksym, Fullstack developer from Ukraine. <br/> 
+📖 I completed the Fullstack development course from GoIT <br/> 
+📚 At this moment studying Css-grid, SASS, Next.js і React Native <br/> 
+👨🏻‍💻 Currently working on a web application for selling campers 
 
----
+## 🌐 My Socials: 
+[![GitHub](https://shields.io)](https://github.com) 
+[![LinkedIn](https://shields.io)](https://linkedin.com) 
+[![LeetCode](https://shields.io)](https://leetcode.com) 
+
+--- 
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Maksym_Yaroshenko_2)
 
