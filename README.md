@@ -1,17 +1,16 @@
+# 😎 Hey, nice to see you here! 👋
+
+I'm Maksym, Fullstack developer from Ukraine. <br/>
+📖 I completed the Fullstack development course from GoIT <br/>
+📚 At this moment studying Css-grid, SASS, Next.js і React Native <br/>
+👨🏻‍💻 Currently working on a web application for selling campers
+
+## 🌐 My Socials:
+[![GitHub](https://shields.io)](https://github.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LeetCode](https://shields.io)](https://leetcode.com)
+
 ---
-# 😎 Hey, nice to see you here! 👋 
-
-I'm Maksym, Fullstack developer from Ukraine. <br/> 
-📖 I completed the Fullstack development course from GoIT <br/> 
-📚 At this moment studying Css-grid, SASS, Next.js і React Native <br/> 
-👨🏻‍💻 Currently working on a web application for selling campers 
-
-## 🌐 My Socials: 
-[![GitHub](https://shields.io)](https://github.com) 
-[![LinkedIn](https://shields.io)](https://linkedin.com) 
-[![LeetCode](https://shields.io)](https://leetcode.com) 
-
---- 
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Maksym_Yaroshenko_2)
