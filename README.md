@@ -10,8 +10,10 @@ I'm Maksym, Fullstack developer from Ukraine. <br/>
 
 ---
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Maksym_Yaroshenko_2)
+## 📊 Stats:
+| 👨‍💻 LeetCode Statistics | 🏅 LeetCode Badges |
+|:--:|:--:|
+| ![Leetcode Stats](https://leetcard.jacoblin.cool/Maksym_Yaroshenko_2?ext=contest) | <img src="https://leetcode-badge-showcase.vercel.app/api?username=Maksym_Yaroshenko_2&theme=dark&animated=true&height=100%" alt="LeetCode Badges" /> |
 
 ## 💻 Tech Stack:
 ###### Languages
